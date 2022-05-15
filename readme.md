@@ -11,4 +11,4 @@
 
 ## How to use
 - `npm install`
-- `gulp watch`
+- `npm run watch` or `gulp watch`

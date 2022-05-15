@@ -4,7 +4,7 @@
 #### Input: `sass/main.scss`  
 #### Output: `css/style.css` and `css/style-rtl.css`
 
-## prerequisites
+## Prerequisites
 - node v14
 - npm 8
 

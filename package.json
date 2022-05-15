@@ -1,12 +1,12 @@
 {
   "name": "rtl",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Gulp tasks that builds a minified ltr and rtl style",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "gulp watch"
   },
-  "author": "",
+  "author": "ibra4",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
